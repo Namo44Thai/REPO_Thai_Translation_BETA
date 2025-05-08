@@ -1,0 +1,9 @@
+{
+"name": "REPO_Thai_Translation_BETA",
+"version_number": "1.0.0",
+"website_url":https://github.com/Namo44Thai/REPO_Thai_Translation_BETA.git"",
+"description": "Changes the posters in the ship into random stuff I drew. Use with caution",
+"dependencies":[
+"BepInEx-BepInExPack-5.4.2100",
+"Boniato-CustomPaintings-1.1.0"
+]
