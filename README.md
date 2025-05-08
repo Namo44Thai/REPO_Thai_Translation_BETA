@@ -1,0 +1,2 @@
+# REPO_Thai_Translation_BETA
+REPO_Thai_Translation_BETA
